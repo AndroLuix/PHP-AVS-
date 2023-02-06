@@ -3,7 +3,7 @@
     /*possiamo anche connetterlo tramite un altro file che
     richiameremo*/
 
-    //$con = mysqli_connect('localhost', 'root', '', 'gestionale');
+    $con = mysqli_connect('localhost', 'root', '', 'gestionale');
     
     //variabile=funzione php(parametri)
     /*mysqli_connect, funzione php(parametri)
